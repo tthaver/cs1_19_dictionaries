@@ -1,0 +1,11 @@
+.right {
+    color: rgb(0%, 70%, 0%);
+}
+
+.wrong {
+    color: red;
+}
+
+body {
+    max-width: 40em;
+}
